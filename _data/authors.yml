@@ -10,9 +10,9 @@ Name Name:
   google_plus : "Name"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
+  name        : "김영임 Kim YoungIm"
+  email       : "nicie2000@naver.com"
+  bio         : "Literary critic researching contemporary Korean literature and nonhuman ethics."
+  avatar      : "/images/profile.jpg"
   twitter     : "name2"
   google_plus : "Name"
