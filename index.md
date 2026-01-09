@@ -1,7 +1,4 @@
 ---
-layout: home
-author_profile: true
 permalink: /
+redirect_to: /about/
 ---
-
-김영임(Young-Im Kim)의 문학비평 아카이브.
