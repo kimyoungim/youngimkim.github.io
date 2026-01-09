@@ -13,7 +13,7 @@ title                    : 김영임 Young-Im Kim
 title_separator          : "-"
 name                     : 김영임 Young-Im Kim
 description              : 문학평론가, 포스트휴먼적 윤리 연구 Literary criticism, nonhuman ethics, and research in progress.
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://youngimkim.org" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
