@@ -1,9 +1,15 @@
 # Authors
 
 primary:
-  name        : "김영임 (Young-Im Kim)"
-  uri         : "https://youngimkim.org"
-  email       : "nicie2000@naver.com"
-  bio         : "Literary critic researching contemporary Korean literature and nonhuman ethics."
-  avatar      : "/images/profile.JPG"
+  name   : "김영임 (Young-Im Kim)"
+  email  : "nicie2000@naver.com"
+  bio    : "Literary critic researching contemporary Korean literature and nonhuman ethics."
+  avatar : "/images/profile.JPG"
+
+default:
+  name   : "김영임 (Young-Im Kim)"
+  email  : "nicie2000@naver.com"
+  bio    : "Literary critic researching contemporary Korean literature and nonhuman ethics."
+  avatar : "/images/profile.JPG"
+
  
