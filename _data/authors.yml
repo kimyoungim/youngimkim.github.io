@@ -5,7 +5,7 @@ Name Name:
   uri         : "https://name.com"
   email       : "nicie2000@naver.com"
   bio         : "Literary critic researching contemporary Korean literature and nonhuman ethics."
-  avatar      : "/images/profile.jpg"
+  avatar      : "/images/profile.JPG"
   twitter     : "name"
   google_plus : "Name"
 
@@ -13,6 +13,6 @@ Name2 Name2:
   name        : "김영임 Kim YoungIm"
   email       : "nicie2000@naver.com"
   bio         : "Literary critic researching contemporary Korean literature and nonhuman ethics."
-  avatar      : "/images/profile.jpg"
+  avatar      : "/images/profile.JPG"
   twitter     : "name2"
   google_plus : "Name"
